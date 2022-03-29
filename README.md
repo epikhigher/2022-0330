@@ -1,1 +1,4 @@
-# 2022-0330
+# Modern Data Platform 
+
+Creating a Microsoft Azure Pass Subscription
+- https://www.microsoftazurepass.com/Home/HowTo
